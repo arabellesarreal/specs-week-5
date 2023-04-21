@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
 
 df = pd.read_csv("C:\\Users\\Ara\\Desktop\\Devmountain\\Specs\\Unit 5\\data-proj-5\\data-proj-5\\starter\\supermarket.csv")
 
